@@ -1,0 +1,37 @@
+body
+{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6d8293+1,607d89+11,5e7f93+25,557389+37,000000+63,d8e086+70,d8e086+70,000000+78,a2daf5+83,000000+91,000000+91,bdf3fd+100 */
+background: #6d8293; /* Old browsers */
+background: -moz-linear-gradient(left, #6d8293 1%, #607d89 11%, #5e7f93 25%, #557389 37%, #000000 63%, #d8e086 70%, #d8e086 70%, #000000 78%, #a2daf5 83%, #000000 91%, #000000 91%, #bdf3fd 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, #6d8293 1%,#607d89 11%,#5e7f93 25%,#557389 37%,#000000 63%,#d8e086 70%,#d8e086 70%,#000000 78%,#a2daf5 83%,#000000 91%,#000000 91%,#bdf3fd 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, #6d8293 1%,#607d89 11%,#5e7f93 25%,#557389 37%,#000000 63%,#d8e086 70%,#d8e086 70%,#000000 78%,#a2daf5 83%,#000000 91%,#000000 91%,#bdf3fd 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6d8293', endColorstr='#bdf3fd',GradientType=1 ); /* IE6-9 */
+}
+li
+{
+	font-style: italic;
+}
+
+h1
+{
+	font-family: 'Cambria';
+}
+
+p
+{
+	font-family: 'Calibri';
+	color: #D8E086;
+	width: 575px;
+}
+
+.standard-paragraph
+{
+	color: black;
+}
+
+.standard-paragraph2
+{
+	font-family: oblique;
+	color: #a2daf5;
+	width: 600px;
+}
